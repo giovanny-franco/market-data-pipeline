@@ -3,3 +3,4 @@ pandas>=2.1
 sqlalchemy>=2.0
 psycopg2-binary>=2.9
 python-dotenv>=1.0
+import-ipynb>=0.1.4
